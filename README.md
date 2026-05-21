@@ -1,6 +1,6 @@
 # Sea Level Predictor
 
-This project predicts global average sea level rise through the year 2050 using historical sea level data.
+A Python data analysis project that uses historical global sea level data to create scatter plots, calculate lines of best fit, and predict sea level rise through 2050.
 
 ## Features
 
